@@ -1,4 +1,4 @@
-# İŞ Arama Platformu Projesi
+# İş Arama Platformu Projesi
 
 İşletmeleri ve işverenleri, iş arayanlarla buluşturmayı amaçlayan bir sitedir.
 
